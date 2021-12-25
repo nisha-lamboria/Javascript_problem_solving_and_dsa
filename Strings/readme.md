@@ -1,6 +1,6 @@
 Level 1
 
-Q1 >  a)Write a program that converts the string into uppercase.
+Q1 >  a)Write a program that converts the string into uppercase./n
 b)Write a program that reads two strings and append first string to the second.
 c)Program that reads string and count number of characters present in the string.
 d)Write a program to delete all vowels from a string. Assume string is not more than 80 characters long.
