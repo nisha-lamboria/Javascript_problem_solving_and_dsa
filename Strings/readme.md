@@ -1,4 +1,4 @@
-Level 1
+Level 1 strings
 
 Q1 >  a)Write a program that converts the string into uppercase./n
 b)Write a program that reads two strings and append first string to the second.
