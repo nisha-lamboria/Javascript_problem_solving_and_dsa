@@ -90,5 +90,22 @@ function checkLength(str){
 let stringLengthResult=checkLength(stringsH)
 console.log(stringLengthResult)
 
+//I
+stringsI="Nisha"
+stringsI1="Lamboria"
+function copySmallString(){
+    minCount=Math.min(stringsI.length,stringsI1.length)
+    console.log(minCount)
+    if(minCount===stringsI.length){
+        stringsI1=stringsI1.concat(stringsI)
+    }else{
+        stringsI1=stringsI.concat(stringsI1)
+    }
+    return stringsI1
+}
+stringCopy=copySmallString()
+console.log(stringCopy)
+
+
 
 
